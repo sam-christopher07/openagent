@@ -1,0 +1,5 @@
+{{#user}}
+My name is Sam Christopher.
+Here are my skills: html, css, js, python.
+My email id is sam.career23@gmail.com.
+{{/user}}
